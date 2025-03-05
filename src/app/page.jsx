@@ -74,7 +74,7 @@ const Homepage = () => {
 
         {/* Text container */}
         <div className="h-1/2 flex flex-col gap-8 lg:h-full lg:w-1/2 items-center justify-center">
-          <h1 className="text-4xl font-bold md:text-6xl text-center">
+          <h1 className="text-4xl font-bold sm:text-3xl md:text-6xl text-center">
             Transforming Ideas into Scalable & Intelligent Digital Solutions
           </h1>
           <p className="md:text-xl text-gray-700 text-center">
