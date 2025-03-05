@@ -25,7 +25,7 @@ const Homepage = () => {
 
           {/* Image with advanced effects */}
           <motion.div
-            className="w-80 h-80 md:w-96 md:h-96 lg:w-[500px] lg:h-[500px] relative rounded-full overflow-hidden border-4 border-white/20 shadow-2xl"
+            className="w-60 h-60 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-[500px] lg:h-[500px] relative rounded-full overflow-hidden border-4 border-white/20 shadow-2xl"
             whileHover={{ scale: 1.05, rotate: 5 }}
             transition={{ type: 'spring', stiffness: 300 }}
           >
