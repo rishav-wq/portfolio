@@ -30,12 +30,12 @@ const items = [
     link: "https://github.com/rishav-wq/fake_news_predictor",
   },
   {
-    id: 4,
-    color: "from-purple-300 to-red-300",
-    title: "AI Smart Diet Planner",
-    desc: "Developed a state-of-the-art AI-powered diet planning system utilizing Gemini AI for tailored meal recommendations. Integrated real-time nutritional data from the USDA FoodData Central API to ensure scientifically backed meal suggestions. Designed with an intuitive web interface for a seamless user experience.",
-    img: "/diet.jpeg",
-    link: "https://github.com/rishav-wq/ai_smart_diet_planner",
+    "id": 4,
+    "color": "from-blue-300 to-green-300",
+    "title": "Buzz Chat - Real-Time Chat Application",
+    "desc": "Built a real-time chat application using Firebase for instant messaging and seamless user authentication. Integrated Firebase Realtime Database for real-time message syncing and Cloudinary for efficient media storage. Designed an interactive and responsive UI with React.js, ensuring a smooth chat experience.",
+    "img": "/buzz.jpeg",
+    "link": "https://github.com/rishav-wq/buzz_chat"
   },
   {
     id: 5,
